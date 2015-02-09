@@ -1,2 +1,2 @@
-To check sieves for ore we use various sample sets and find the smallest and the biggest stones.
-The difference between these values can be used to decide is this sample good for checking.
+To check an automated sieve for ore we use a variety of sample sets to find the smallest and the largest stones.
+The difference between these values is then used to decide if the sample is worth checking.
