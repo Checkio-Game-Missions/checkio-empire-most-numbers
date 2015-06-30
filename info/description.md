@@ -1,4 +1,4 @@
-You are given an array of positive numbers from which you must find the difference between the maximum and minimum elements.
+You are given an array of numbers from which you must find the difference between the maximum and minimum elements.
 Your function should be able to handle an undefined amount of arguments. 
 For an empty argument list, the function should return 0.
 
